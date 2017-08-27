@@ -1,24 +1,21 @@
-# README
+# To-Do
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+To-Do is an MVC app that lets users keep track or their to-dos. It is mainly written in JavaScript and also utilizes jQuery, JSON and Ruby.
 
-Things you may want to cover:
+*Technial description: A dynamic, database-driven web application that fetches data using RESTful JSON APIs from Rails and uses JavaScript to dynamically update the page.*
 
-* Ruby version
+## Features
 
-* System dependencies
+* jQuery lets users do check toggling.
 
-* Configuration
+* Twitter Bootstrap 3 for CSS and components.
 
-* Database creation
+* Devise for user forms and security.
 
-* Database initialization
+* RESTful JSON APIs from Rails for data exchange.
 
-* How to run the test suite
+* Users can keep track of their to-dos easily.
 
-* Services (job queues, cache servers, search engines, etc.)
+## View It Live
 
-* Deployment instructions
-
-* ...
+https://todo-alan-unruh.herokuapp.com/
