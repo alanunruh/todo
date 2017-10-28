@@ -2,7 +2,7 @@
 
 To-Do is an MVC app that lets users keep track or their to-dos. It is mainly written in JavaScript and also utilizes jQuery, JSON and Ruby.
 
-*Technial description: A dynamic, database-driven web application that fetches data using RESTful JSON APIs from Rails and uses JavaScript to dynamically update the page.*
+*Technical description: A dynamic, database-driven web application that fetches data using RESTful JSON APIs from Rails and uses JavaScript to dynamically update the page.*
 
 ## Features
 
